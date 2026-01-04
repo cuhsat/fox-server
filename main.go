@@ -7,7 +7,7 @@ Use with fox:
 
 Query server:
 
-	curl -X POST 0.0.0.0:8211/query -d "are the critical events?"
+	curl -X POST 0.0.0.0:8211/query -d "are there critical events?"
 */
 package main
 
